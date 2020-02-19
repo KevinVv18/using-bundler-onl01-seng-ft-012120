@@ -1,3 +1,6 @@
+require 'bundler/setup'  
+require_relative '../config/environment'
+
 Hashie
 Sinatra
 Octokit
